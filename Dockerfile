@@ -9,7 +9,7 @@ COPY . .
 RUN go build -o challenge-helloworld .
 
 
-FROM alpine
+FROM scratch 
 
 WORKDIR /usr/src/app
 
