@@ -1,6 +1,6 @@
 # Fullstack Course - Go Challenge
 
-## Conteúdo
+## Índice
 
 - [Sobre](#about)
 - [Executar](#usage)
