@@ -8,7 +8,6 @@ COPY . .
 
 RUN go build -o challenge-helloworld .
 
-
 FROM scratch 
 
 WORKDIR /usr/src/app
